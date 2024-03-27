@@ -16,6 +16,7 @@ The computer code and data files described and made available on this web page a
 Languages:
 
 calcomp is available in a FORTRAN77 version.
+
 Related Data and Programs:
 
 calcomp_test
@@ -25,6 +26,7 @@ PS, a data directory which contains some information about and examples of PostS
 PS_WRITE, a FORTRAN90 library which can be used to create a PostScript graphics file.
 
 TOMS626, a FORTRAN77 library for computing contour lines of data associated with a triangulated set of points; the contour lines are drawn using calls to Calcomp plotter software.
+
 Reference:
 
     Calcomp Graphics Functional Software,
